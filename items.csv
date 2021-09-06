@@ -1,0 +1,13 @@
+﻿product_id,product_name,product_cost (in $),selling_price (in $)
+1,Eggs 10 nos,1,2
+2,Eggs 25 nos,2.5,5.5
+3,Eggs 50 nos,5,10
+4,Chicken 1kg,6,10
+5,Chicken 2kg,12,25
+6,Chicken 5kg,30,50
+7,Beef 1kg,7,12
+8,Beef 2kg,14,25
+9,Beef 5kg,35,60
+10,Milk 500 ML,0.2,0.5
+11,Milk 1L,0.4,1
+12,Milk 2L,0.8,2
