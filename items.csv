@@ -1,4 +1,4 @@
-﻿product_id,product_name,product_cost_in_$,selling_price_in_$)
+﻿product_id,product_name,product_cost,selling_price)
 1,Eggs 10 nos,1,2
 2,Eggs 25 nos,2.5,5.5
 3,Eggs 50 nos,5,10
